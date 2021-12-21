@@ -1,4 +1,4 @@
-package com.mentoring.mentor.controller
+package com.mentoring.mentor.testcontroller
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RestController
